@@ -1,0 +1,4 @@
+How to compile lab1.cpp:
+
+	g++ lab1.cpp -o lab1.exe
+

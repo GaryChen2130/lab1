@@ -1,0 +1,7 @@
+#!/bin/bash
+#This program shows how to execute lab1.exe
+#2016/3/13
+
+echo "./lab1.exe \n"
+exit 0
+
