@@ -1,0 +1,38 @@
+Script started on 2017年03月13日 (週一) 12時09分55秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m git confih[Kg --global user.name""G"a"r"y"c"h"e"n"2"1"3"0"[1Phen2130"Chen2130"
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m git config -l
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m whoami;pwd
+pd2vm
+/home/pd2vm/proii/lab1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m git config -l
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m git clone https://github.com/
+Cloning into 'github.com'...
+fatal: repository 'https://github.com/' not found
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m <your
+bash: your: No such file or directory
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m github 
+github: command not found
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m account>
+bash: syntax error near unexpected token `newline'
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m /lab1.git[K[K[K[K[K[K[K[K[Kaccount>[1Pgithub [2P<yourgit clone https://github.com/GaryChw[Ken2130/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 5, done.[K
+remote: Compressing objects:  33% (1/3)   [Kremote: Compressing objects:  66% (2/3)   [Kremote: Compressing objects: 100% (3/3)   [Kremote: Compressing objects: 100% (3/3), done.[K
+remote: Total 5 (delta 0), reused 5 (delta 0), pack-reused 0[K
+Unpacking objects:  20% (1/5)   Unpacking objects:  40% (2/5)   Unpacking objects:  60% (3/5)   Unpacking objects:  80% (4/5)   Unpacking objects: 100% (5/5)   Unpacking objects: 100% (5/5), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m ls
+[0m[01;34mlab1[0m  lab1.script
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m rm -d[Kf lab1
+rm: cannot remove ‘lab1’: Is a directory
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m rm -f lab1[1@r
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m ls
+lab1.script
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m lsrm -rf lab1[1P[C[C[C[C[C[Cls[Kgit clone https://github.com/GaryChen2130/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m ls
+[0m[01;34mlab1[0m  lab1.script
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/proii/lab1 $[00m ^D[K
+Script done on 2017年03月13日 (週一) 12時14分41秒
